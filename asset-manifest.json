@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perfumy-react/static/css/main.21fd936a.css",
+    "main.js": "/perfumy-react/static/js/main.ed69fa3c.js",
+    "static/media/one.jpg": "/perfumy-react/static/media/one.4704b9d800baa90638a5.jpg",
+    "static/media/three.jpg": "/perfumy-react/static/media/three.c90cbb807ae45315f20f.jpg",
+    "index.html": "/perfumy-react/index.html",
+    "main.21fd936a.css.map": "/perfumy-react/static/css/main.21fd936a.css.map",
+    "main.ed69fa3c.js.map": "/perfumy-react/static/js/main.ed69fa3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21fd936a.css",
+    "static/js/main.ed69fa3c.js"
+  ]
+}
